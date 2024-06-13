@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import ProgressBar from "./ProgressBar";
-//
+
 const App = () => {
   const [progress, setProgress] = useState(0);
 
